@@ -1,3 +1,5 @@
+
+@include("parts.header")
 <!-- 投稿フォーム -->
 @include("parts.bbs_entry_form")
 
